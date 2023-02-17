@@ -1,12 +1,12 @@
 .footer{
     background-color: #fafbfc;
-    padding: 5% 5% 0% 5%;
+    padding: 2% 5% 0% 5%;
     font-family: 'Poppins', sans-serif;
     text-align: center;
 }
 
 .socials{
-    padding-bottom: 5%;
+    padding-bottom: 2%;
 }
 
 .socials-links{
@@ -15,7 +15,7 @@
 }
 
 .socials-links-img{
-    width: 3%;
+    width: 2%;
     padding: 0% 1%;
 }
 

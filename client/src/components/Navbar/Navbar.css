@@ -34,12 +34,10 @@
     height: 10%;
 }
 
-.hamburger-menu{
+/* .hamburger-menu{
     display: flex;
     flex-direction: column;
     gap: 5px;
-    /* border: 2px solid black; */
-    /* border-radius: 7px; */
     padding: 7px;
     position: relative;
     z-index: 2000;
@@ -69,8 +67,7 @@
     z-index: 1000;
     background-color: white;
     padding: 19% 4%;
-    /* display: none; */
-}
+} */
 
 .categories, .search-textbox{
     display: none;

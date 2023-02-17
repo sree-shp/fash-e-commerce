@@ -1,6 +1,5 @@
 import React from "react";
 import "./Home.css";
-import Navbar from "../Navbar/Navbar";
 import Footer from "../Footer/Footer";
 import Category from "../Category/Category";
 import categories from "../Category/categories";
